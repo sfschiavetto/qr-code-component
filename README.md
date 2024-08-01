@@ -12,8 +12,8 @@ Para esse projeto foi utilizado HTML, CSS, Bootstrap5 e GoogleFont.
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](built-with)
-- [Author](author)
+  - [Built with](#built-with)
+- [Author](#author)
  
 
 ## Overview
